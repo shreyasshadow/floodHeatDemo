@@ -4,3 +4,5 @@ pandas
 matplotlib
 folium
 streamlit-folium
+geemap
+ee
